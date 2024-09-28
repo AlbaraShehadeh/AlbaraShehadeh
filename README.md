@@ -42,7 +42,7 @@
 - :technologist: I have experience in **Solving Computer Vision Problems**, `Object Detection` and `Segmentation`.
 - :nerd_face: Always `learning new things`.
 - 💬 Ask me about anything, I love to answer!
-- :thinking: I’m currently open for a new `job opportunity` and this [My Resume](https://github.com/AlbaraShehadeh/AlbaraShehadeh/blob/97e8a510b6b33bd04931b09d39d47c35d7f75005/Albara%20Shehadeh%20Resume%20Updated.pdf) 📄.
+- :thinking: I’m currently open for a new `job opportunity` and this [My Resume](https://github.com/AlbaraShehadeh/AlbaraShehadeh/blob/cb77cee0da99824d3b8ecc0b08edeee8bb826919/Resume.pdf) 📄.
 - Feel free to contact me albara.shehadeh@gmail.com 🏆.
 <br>
 
